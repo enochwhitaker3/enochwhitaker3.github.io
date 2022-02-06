@@ -1,4 +1,4 @@
-# My name is Enoch Whitaker and I like too
+# My name is Enoch Whitaker and I like to:
 
 - Skateboard
 - Play Soccer
